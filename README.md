@@ -35,13 +35,28 @@ Here are some ideas to get you started:
   [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hereticSage)
 </div>
 
+<!--
 <div align="center">
-  <!--
   ![Banner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsijaria&theme=tokyonight) 
-  -->
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhavsijaria&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
-  [![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vaibhavsijaria&show_icons=true&theme=nightowl&hide_border=true)](https://git.io/streak-stats) 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhavsijaria&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+[![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vaibhavsijaria&show_icons=true&theme=nightowl&hide_border=true)](https://git.io/streak-stats) 
 </div>
- 
+-->
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=vaibhavsijaria&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+        </a>
+      </td>
+      <td>
+        <a href="https://git.io/streak-stats">
+          <img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vaibhavsijaria&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats">
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
