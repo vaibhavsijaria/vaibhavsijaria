@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+I'm Vaibhav.
+
+- 🔭 I’m currently working on Backend Web Technologies and System programming
+- 🌱 I’m currently learning Rust, Zig, Game dev and MLOps.
+- 💬 Ask me about anything!
+- 😄 Pronouns: [he/him/his]([https://pronoun.is/she](https://en.wikipedia.org/wiki/He_(pronoun)))
+- 📫 How to reach me: [e-mail](mailto:vaibhav@national.shitposting.agency) / [Keybase](https://keybase.io/vaibhav00) / [Telegram](https://t.me/hereticSage)
+- ⚡ Fun fact: I'm a full-time daydreamer, programming for fun.
