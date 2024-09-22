@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything!
 - 😄 Pronouns: [he/him/his](https://en.wikipedia.org/wiki/He_(pronoun))
 - 📫 How to reach me: [Email](mailto:vaibhav@national.shitposting.agency) / [Keybase](https://keybase.io/vaibhav00) / [Telegram](https://t.me/hereticSage)
-- ⚡ Fun fact: I can spend hours debugging and still call it fun.
+- ⚡ Fun fact: Still finding.
 
 <div align="center">
 
