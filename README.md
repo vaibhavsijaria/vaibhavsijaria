@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **vaibhavsijaria/vaibhavsijaria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -16,12 +15,12 @@ Here are some ideas to get you started:
 -->
 
 
-I'm Vaibhav.
+👋 Hi, I’m Vaibhav.
 
 - 🔭 I’m currently working on Backend Development and System Programming.
 - 🌱 I’m currently learning Rust, Zig, Game dev and MLOps.
 - 💬 Ask me about anything!
-- 😄 Pronouns: [he/him/his]([https://pronoun.is/she](https://en.wikipedia.org/wiki/He_(pronoun)))
+- 😄 Pronouns: [he/him/his](https://en.wikipedia.org/wiki/He_(pronoun))
 - 📫 How to reach me: [Email](mailto:vaibhav@national.shitposting.agency) / [Keybase](https://keybase.io/vaibhav00) / [Telegram](https://t.me/hereticSage)
 - ⚡ Fun fact: I can spend hours debugging and still call it fun.
 
@@ -35,3 +34,14 @@ I'm Vaibhav.
   [![keybase](https://img.shields.io/badge/Keybase-Vaibhav00-darkturquoise?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/vaibhav00)
   [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hereticSage)
 </div>
+
+<div align="center">
+  <!--
+  ![Banner](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vaibhavsijaria&theme=tokyonight) 
+  -->
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=vaibhavsijaria&theme=nightowl&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) 
+  [![GitHub Stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=vaibhavsijaria&show_icons=true&theme=nightowl&hide_border=true)](https://git.io/streak-stats) 
+
+</div>
+ 
