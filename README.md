@@ -27,11 +27,11 @@ I'm Vaibhav.
 
 <div align="center">
 
-  [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
-  [![OS:Android14](https://img.shields.io/badge/OS-Android14-green?style=flat-square&logo=android)](https://www.android.com/)
-  [![IDE:VSCode](https://img.shields.io/badge/IDE-VSCode-blue?style=flat&logo=vscodium)](https://code.visualstudio.com/)
-  [![DE:Gnome](https://img.shields.io/badge/DE-Gnome-black?style=flat&logo=gnome&logoColor=white)](https://www.gnome.org)
+  [![OS:ArchLinux](https://img.shields.io/badge/OS-Arch_Linux-blue?style=flat-square&logo=arch-linux&logoColor=white)](https://archlinux.org)
+  [![DE:Gnome](https://img.shields.io/badge/DE-Gnome-black?style=flat-square&logo=gnome&logoColor=white)](https://www.gnome.org)
+  [![OS:Android14](https://img.shields.io/badge/OS-Android_14-lawngreen?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
+  [![IDE:VSCode](https://img.shields.io/badge/IDE-VS_Code-blue?style=flat-square&logo=vscodium&logoColor=white)](https://code.visualstudio.com/)
 
-  [![keybase](https://img.shields.io/badge/Keybase-Vaibhav00-blue?style=flat-square&logo=keybase)](https://keybase.io/vaibhav00)
-  [![telegram](https://img.shields.io/badge/Telegram-hereticSage-blue?style=flat-square&logo=telegram)](https://t.me/hereticSage)
+  [![keybase](https://img.shields.io/badge/Keybase-Vaibhav00-darkturquoise?style=flat-square&logo=keybase&logoColor=white)](https://keybase.io/vaibhav00)
+  [![telegram](https://img.shields.io/badge/Telegram-hereticSage-darkturquoise?style=flat-square&logo=telegram&logoColor=white)](https://t.me/hereticSage)
 </div>
